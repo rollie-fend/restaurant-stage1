@@ -62,7 +62,7 @@ section {
 
 #footer {
   background-color: #444;
-  color: #aaa;
+  color: #fff;
   font-size: 8pt;
   letter-spacing: 1px;
   padding: 25px;
@@ -230,7 +230,7 @@ nav h1 a {
 
 
 #restaurants-list li button {
-  background-color: #f18200;
+  background-color: #800000;
   border-bottom: 3px solid #eee;
   color: #fff;
   display: inline-block;
@@ -275,7 +275,7 @@ nav h1 a {
 }
 
 #restaurant-name {
-  color: #f18200;
+  color: #800000;
   font-family: Arial,sans-serif;
   font-size: 20pt;
   font-weight: 200;
